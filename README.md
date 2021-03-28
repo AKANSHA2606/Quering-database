@@ -1,6 +1,6 @@
 # OVERVIEW
 
-This is Udacity's first project under Programming for Data Science Nanodegree Program. This project was focused on exploring a relational database using SQL. (Created on September 10, 2018)
+This is Udacity's first project under Programming for Data Science Nanodegree Program. This project was focused on exploring a relational database using SQL. (Created on March 25, 2021)
 
 This project focuses on gaining on hand experience with exploring a relational database. This project uses SQL and data visualization to explore the Sakila Movie Database. As part of this project, we are to ask interesting questions about the data and create and run SQL queries to answer these questions.
 
